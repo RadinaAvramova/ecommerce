@@ -6,7 +6,7 @@
         "framework",
         "laravel"
     ],
-    "license": "MIT",
+    "license": "",
     "require": {
         "php": "^8.0.2",
         "cviebrock/eloquent-sluggable": "^9.0",
