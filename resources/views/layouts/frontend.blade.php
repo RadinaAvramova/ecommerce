@@ -247,8 +247,8 @@
                 <a href="./index.html"><img src="{{ asset('frontend/img/logo.png') }}" alt="" /></a>
               </div>
               <ul>
-                <li>Address: 60-49 Road 11378 New York</li>
-                <li>Phone: +65 11.188.888</li>
+                <li>Address: </li>
+                <li>Phone: </li>
                 <li>Email: hello@colorlib.com</li>
               </ul>
             </div>
